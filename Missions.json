@@ -1,0 +1,1834 @@
+[{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8e0"
+  },
+  "sscs_id": "SSCS001",
+  "mission": "ACMES",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "Utah State University",
+  "institution": "University",
+  "status": "Formulation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8e1"
+  },
+  "sscs_id": "SSCS002",
+  "mission": "ACS3",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "LaRC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8e2"
+  },
+  "sscs_id": "SSCS003",
+  "mission": "AEPEX",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "U. Colorado, Boulder",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8e3"
+  },
+  "sscs_id": "SSCS004",
+  "mission": "AERO",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "MIT Haystack Observatory",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8e4"
+  },
+  "sscs_id": "SSCS005",
+  "mission": "ALBUS",
+  "sponsor": "STMD",
+  "program": "NASA-Center",
+  "location": "GRC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8e5"
+  },
+  "sscs_id": "SSCS006",
+  "mission": "ARCSTONE",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "LaRC",
+  "institution": "NASA",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8e6"
+  },
+  "sscs_id": "SSCS007",
+  "mission": "ASPERA",
+  "sponsor": "SMD-APD",
+  "program": "Pioneers",
+  "location": "University of Arizona",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8e7"
+  },
+  "sscs_id": "SSCS008",
+  "mission": "ASTERIA",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "JPL",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8e8"
+  },
+  "sscs_id": "SSCS009",
+  "mission": "ATHENA",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "LaRC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8e9"
+  },
+  "sscs_id": "SSCS010",
+  "mission": "BIOSENTINEL",
+  "sponsor": "HEOMD",
+  "program": "AES",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Exploration",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8ea"
+  },
+  "sscs_id": "SSCS011",
+  "mission": "BLACKCAT",
+  "sponsor": "SMD-APD",
+  "program": "APRA",
+  "location": "Penn State",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8eb"
+  },
+  "sscs_id": "SSCS012",
+  "mission": "BURSTCUBE",
+  "sponsor": "SMD-APD",
+  "program": "APRA",
+  "location": "GSFC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8ec"
+  },
+  "sscs_id": "SSCS013",
+  "mission": "CAPSTONE",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "Advanced Space",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8ed"
+  },
+  "sscs_id": "SSCS014",
+  "mission": "CERES",
+  "sponsor": "SMD-HPD",
+  "program": "NASA-Direct",
+  "location": "GSFC",
+  "institution": "NASA",
+  "status": "Failure",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8ee"
+  },
+  "sscs_id": "SSCS015",
+  "mission": "CHOMPTT",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "U. Florida",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8ef"
+  },
+  "sscs_id": "SSCS016",
+  "mission": "CIRBE",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "U. Colorado, LASP",
+  "institution": "UARC",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8f0"
+  },
+  "sscs_id": "SSCS017",
+  "mission": "CIRIS-BATC",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "Ball Aerospace",
+  "institution": "Industry",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8f1"
+  },
+  "sscs_id": "SSCS018",
+  "mission": "CISLUNAR EXPLORERS",
+  "sponsor": "STMD",
+  "program": "PC",
+  "location": "Cornell",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8f2"
+  },
+  "sscs_id": "SSCS019",
+  "mission": "CLICK (A)",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "MIT",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8f3"
+  },
+  "sscs_id": "SSCS020",
+  "mission": "CLICK (B/C)",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "MIT",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8f4"
+  },
+  "sscs_id": "SSCS021",
+  "mission": "COSI",
+  "sponsor": "SMD-APD",
+  "program": "SMEX",
+  "location": "U. California Berkley",
+  "institution": "University",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8f5"
+  },
+  "sscs_id": "SSCS022",
+  "mission": "COURIER SEP DEMO",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ExoTerra Resource ",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8f6"
+  },
+  "sscs_id": "SSCS023",
+  "mission": "CPOD",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "Tyvak Corporation",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8f7"
+  },
+  "sscs_id": "SSCS024",
+  "mission": "CRYOCUBE",
+  "sponsor": "HEOMD",
+  "program": "AES",
+  "location": "KSC",
+  "institution": "NASA",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8f8"
+  },
+  "sscs_id": "SSCS025",
+  "mission": "CSIM-FD",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "U. Colorado, LASP",
+  "institution": "UARC",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8f9"
+  },
+  "sscs_id": "SSCS026",
+  "mission": "CSUNSAT-1",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "Cal State University Northridge",
+  "institution": "University",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8fa"
+  },
+  "sscs_id": "SSCS027",
+  "mission": "CTIM-FD",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "U. Colorado, LASP",
+  "institution": "UARC",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8fb"
+  },
+  "sscs_id": "SSCS028",
+  "mission": "CUBERRT",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "The Ohio State University",
+  "institution": "University",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8fc"
+  },
+  "sscs_id": "SSCS029",
+  "mission": "CUBIXSS",
+  "sponsor": "SMD-HPD",
+  "program": "HFORT",
+  "location": "SWRI",
+  "institution": "Industry",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8fd"
+  },
+  "sscs_id": "SSCS030",
+  "mission": "CU-E3",
+  "sponsor": "STMD",
+  "program": "PC",
+  "location": "U. Colorado, Boulder",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8fe"
+  },
+  "sscs_id": "SSCS031",
+  "mission": "CUPID",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "Boston University",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d8ff"
+  },
+  "sscs_id": "SSCS032",
+  "mission": "CURIE",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "U. California, Berkeley",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d900"
+  },
+  "sscs_id": "SSCS033",
+  "mission": "CUSP",
+  "sponsor": "SMD-HPD",
+  "program": "NASA-Direct",
+  "location": "SWRI",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d901"
+  },
+  "sscs_id": "SSCS034",
+  "mission": "CUTE",
+  "sponsor": "SMD-APD",
+  "program": "APRA",
+  "location": "U. Colorado, LASP",
+  "institution": "UARC",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d902"
+  },
+  "sscs_id": "SSCS035",
+  "mission": "CYGNSS",
+  "sponsor": "SMD-ESD",
+  "program": "EV",
+  "location": "U. Michigan",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d903"
+  },
+  "sscs_id": "SSCS036",
+  "mission": "DAILI",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "The Aerospace Corporation",
+  "institution": "Industry",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d904"
+  },
+  "sscs_id": "SSCS037",
+  "mission": "DELLINGR",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "GSFC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d905"
+  },
+  "sscs_id": "SSCS038",
+  "mission": "DIONE",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "GSFC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d906"
+  },
+  "sscs_id": "SSCS039",
+  "mission": "DUPLEX",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "CU Aerospace",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d907"
+  },
+  "sscs_id": "SSCS040",
+  "mission": "DYNAGLO",
+  "sponsor": "SMD-HPD",
+  "program": "HFORT",
+  "location": "University of Colorado, Boulder",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d908"
+  },
+  "sscs_id": "SSCS041",
+  "mission": "ECAMSAT",
+  "sponsor": "SMD-BPS",
+  "program": "SLPSRA",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d909"
+  },
+  "sscs_id": "SSCS042",
+  "mission": "EDSN",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d90a"
+  },
+  "sscs_id": "SSCS043",
+  "mission": "ELFIN (A/B)",
+  "sponsor": "SMD-HPD",
+  "program": "NASA-Direct",
+  "location": "U. California, Los Angeles",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d90b"
+  },
+  "sscs_id": "SSCS044",
+  "mission": "ESCAPADE",
+  "sponsor": "SMD-HPD",
+  "program": "SIMPLEx",
+  "location": "U. California, Berkeley",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d90c"
+  },
+  "sscs_id": "SSCS045",
+  "mission": "EZIE",
+  "sponsor": "SMD-HPD",
+  "program": "MOO",
+  "location": "JHUAPL",
+  "institution": "UARC",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d90d"
+  },
+  "sscs_id": "SSCS046",
+  "mission": "GENESAT",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d90e"
+  },
+  "sscs_id": "SSCS047",
+  "mission": "GLIDE",
+  "sponsor": "SMD-HPD",
+  "program": "STP",
+  "location": "U. Illinois",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d90f"
+  },
+  "sscs_id": "SSCS048",
+  "mission": "GPX2",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "LaRC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d910"
+  },
+  "sscs_id": "SSCS049",
+  "mission": "GRIFEX",
+  "sponsor": "SMD-ESD",
+  "program": "NASA-Direct",
+  "location": "JPL",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d911"
+  },
+  "sscs_id": "SSCS050",
+  "mission": "GTOSAT",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "GSFC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d912"
+  },
+  "sscs_id": "SSCS051",
+  "mission": "HALOSAT",
+  "sponsor": "SMD-APD",
+  "program": "APRA",
+  "location": "U. Iowa",
+  "institution": "University",
+  "status": "Complete",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d913"
+  },
+  "sscs_id": "SSCS052",
+  "mission": "HARP",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "U. Maryland, Baltimore County",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d914"
+  },
+  "sscs_id": "SSCS053",
+  "mission": "HELIOSWARM",
+  "sponsor": "SMD-HPD",
+  "program": "",
+  "location": "University of New Hampshire",
+  "institution": "University",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d915"
+  },
+  "sscs_id": "SSCS054",
+  "mission": "HYTI",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "U. Hawaii",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d916"
+  },
+  "sscs_id": "SSCS055",
+  "mission": "ICECUBE",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "GSFC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d917"
+  },
+  "sscs_id": "SSCS056",
+  "mission": "ICON",
+  "sponsor": "SMD-HPD",
+  "program": "SMEX",
+  "location": "U. California, Berkeley",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d918"
+  },
+  "sscs_id": "SSCS057",
+  "mission": "I-COVEX",
+  "sponsor": "SMD-HPD",
+  "program": "HFORT",
+  "location": "SWRI",
+  "institution": "Industry",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d919"
+  },
+  "sscs_id": "SSCS058",
+  "mission": "INCUS",
+  "sponsor": "SMD-ESD",
+  "program": "EVM-3",
+  "location": "Colorado State University",
+  "institution": "University",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d91a"
+  },
+  "sscs_id": "SSCS059",
+  "mission": "IPEX",
+  "sponsor": "SMD-ESD",
+  "program": "NASA-Direct",
+  "location": "JPL",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d91b"
+  },
+  "sscs_id": "SSCS060",
+  "mission": "ISARA",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "JPL",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d91c"
+  },
+  "sscs_id": "SSCS061",
+  "mission": "ITC",
+  "sponsor": "SMD-HPD",
+  "program": "NASA-Direct",
+  "location": "U. New Hampshire",
+  "institution": "University",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d91d"
+  },
+  "sscs_id": "SSCS062",
+  "mission": "IXPE",
+  "sponsor": "SMD-APD",
+  "program": "SMEX",
+  "location": "MSFC",
+  "institution": "NASA",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d91e"
+  },
+  "sscs_id": "SSCS063",
+  "mission": "JANUS",
+  "sponsor": "SMD-PSD",
+  "program": "SIMPLEx",
+  "location": "U. Colorado, Boulder",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d91f"
+  },
+  "sscs_id": "SSCS064",
+  "mission": "LLITED",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "The Aerospace Corporation",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d920"
+  },
+  "sscs_id": "SSCS065",
+  "mission": "LMRST-SAT",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "JPL",
+  "institution": "NASA",
+  "status": "Failure",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d921"
+  },
+  "sscs_id": "SSCS066",
+  "mission": "LUNAH-MAP",
+  "sponsor": "SMD-PSD",
+  "program": "SIMPLEx",
+  "location": "ASU",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d922"
+  },
+  "sscs_id": "SSCS067",
+  "mission": "LUNAR FLASHLIGHT",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "JPL",
+  "institution": "FFRDC",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d923"
+  },
+  "sscs_id": "SSCS068",
+  "mission": "LUNAR ICECUBE",
+  "sponsor": "HEOMD",
+  "program": "AES",
+  "location": "Morehead State University",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Exploration",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d924"
+  },
+  "sscs_id": "SSCS069",
+  "mission": "LUNAR TRAILBLAZER",
+  "sponsor": "SMD-PSD",
+  "program": "SIMPLEx",
+  "location": "Caltech",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d925"
+  },
+  "sscs_id": "SSCS070",
+  "mission": "LUNIR",
+  "sponsor": "HEOMD",
+  "program": "AES",
+  "location": "Lockheed Martin Corporation",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Exploration",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d926"
+  },
+  "sscs_id": "SSCS071",
+  "mission": "MARCO",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "JPL",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d927"
+  },
+  "sscs_id": "SSCS072",
+  "mission": "MARCO (A/B)",
+  "sponsor": "SMD-PSD",
+  "program": "NASA-Direct",
+  "location": "JPL",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d928"
+  },
+  "sscs_id": "SSCS073",
+  "mission": "MARS HELICOPTER/ INGENUITY",
+  "sponsor": "SMD-PSD",
+  "program": "NASA-Direct",
+  "location": "JPL",
+  "institution": "NASA",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d929"
+  },
+  "sscs_id": "SSCS074",
+  "mission": "MC/COVE-2",
+  "sponsor": "SMD-ESD",
+  "program": "NASA-Direct",
+  "location": "U. Michigan",
+  "institution": "University",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d92a"
+  },
+  "sscs_id": "SSCS075",
+  "mission": "MINI-CARB (CNGB)",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "GSFC/LLNL",
+  "institution": "NASA",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d92b"
+  },
+  "sscs_id": "SSCS076",
+  "mission": "MINXSS",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "U. Colorado, Boulder",
+  "institution": "University",
+  "status": "Complete",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d92c"
+  },
+  "sscs_id": "SSCS077",
+  "mission": "MINXSS-2",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "U. Colorado, Boulder",
+  "institution": "University",
+  "status": "Failure",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d92d"
+  },
+  "sscs_id": "SSCS078",
+  "mission": "MIRATA",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "MIT",
+  "institution": "University",
+  "status": "Failure",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d92e"
+  },
+  "sscs_id": "SSCS079",
+  "mission": "MUSE",
+  "sponsor": "SMD-HPD",
+  "program": "SMEX",
+  "location": "Lockheed Martin Corporation",
+  "institution": "Industry",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d92f"
+  },
+  "sscs_id": "SSCS080",
+  "mission": "NACHOS",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "LANL",
+  "institution": "FFRDC",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d930"
+  },
+  "sscs_id": "SSCS081",
+  "mission": "NACHOS 2",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "LANL",
+  "institution": "FFRDC",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d931"
+  },
+  "sscs_id": "SSCS082",
+  "mission": "NANOSAIL-D",
+  "sponsor": "STMD",
+  "program": "",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d932"
+  },
+  "sscs_id": "SSCS083",
+  "mission": "NEA SCOUT",
+  "sponsor": "HEOMD",
+  "program": "AES",
+  "location": "MSFC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Exploration",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d933"
+  },
+  "sscs_id": "SSCS084",
+  "mission": "NODES",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d934"
+  },
+  "sscs_id": "SSCS085",
+  "mission": "NUSTAR",
+  "sponsor": "SMD-APD",
+  "program": "SMEX",
+  "location": "Caltech",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d935"
+  },
+  "sscs_id": "SSCS086",
+  "mission": "O/OREOS",
+  "sponsor": "SMD-PSD",
+  "program": "ASTID",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d936"
+  },
+  "sscs_id": "SSCS087",
+  "mission": "OCSD (A)",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "The Aerospace Corporation",
+  "institution": "Industry",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d937"
+  },
+  "sscs_id": "SSCS088",
+  "mission": "OCSD (B/C)",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "The Aerospace Corporation",
+  "institution": "Industry",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d938"
+  },
+  "sscs_id": "SSCS089",
+  "mission": "PACE1",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Failure",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d939"
+  },
+  "sscs_id": "SSCS090",
+  "mission": "PACE-2",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d93a"
+  },
+  "sscs_id": "SSCS091",
+  "mission": "PACE-3",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Formulation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d93b"
+  },
+  "sscs_id": "SSCS092",
+  "mission": "PACE-4",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Formulation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d93c"
+  },
+  "sscs_id": "SSCS093",
+  "mission": "PADRE",
+  "sponsor": "SMD-HPD",
+  "program": "HFORT",
+  "location": "U. California, Berkeley",
+  "institution": "University",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d93d"
+  },
+  "sscs_id": "SSCS094",
+  "mission": "PANDORA",
+  "sponsor": "SMD-APD",
+  "program": "Pioneers",
+  "location": "GSFC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d93e"
+  },
+  "sscs_id": "SSCS095",
+  "mission": "PATCOOL",
+  "sponsor": "HEOMD",
+  "program": "LSP",
+  "location": "U. of Florida",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d93f"
+  },
+  "sscs_id": "SSCS096",
+  "mission": "PETITSAT",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "GSFC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d940"
+  },
+  "sscs_id": "SSCS097",
+  "mission": "PHARMASAT",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d941"
+  },
+  "sscs_id": "SSCS098",
+  "mission": "PHONESATS",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d942"
+  },
+  "sscs_id": "SSCS099",
+  "mission": "PREFIRE",
+  "sponsor": "SMD-ESD",
+  "program": "EV",
+  "location": "U. Wisconsin",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d943"
+  },
+  "sscs_id": "SSCS100",
+  "mission": "PTD-1 HYDROS",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "Tyvak Nanosatellite Systems",
+  "institution": "Industry",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d944"
+  },
+  "sscs_id": "SSCS101",
+  "mission": "PTD-3 TBIRD",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "Tyvak Nanosatellite Systems",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d945"
+  },
+  "sscs_id": "SSCS102",
+  "mission": "PTD-4 LISA-T",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "Tyvak Nanosatellite Systems",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d946"
+  },
+  "sscs_id": "SSCS103",
+  "mission": "PUNCH",
+  "sponsor": "SMD-HPD",
+  "program": "SMEX",
+  "location": "SWRI",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d947"
+  },
+  "sscs_id": "SSCS104",
+  "mission": "Q-PACE",
+  "sponsor": "SMD-PSD",
+  "program": "SIMPLEx",
+  "location": "U. Central Florida",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d948"
+  },
+  "sscs_id": "SSCS105",
+  "mission": "R5-S1",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "JSC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d949"
+  },
+  "sscs_id": "SSCS106",
+  "mission": "RADSAT-G",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "Montana State University",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d94a"
+  },
+  "sscs_id": "SSCS107",
+  "mission": "RAINCUBE",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "JPL",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d94b"
+  },
+  "sscs_id": "SSCS108",
+  "mission": "RAVAN",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "JHUAPL",
+  "institution": "UARC",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d94c"
+  },
+  "sscs_id": "SSCS109",
+  "mission": "REAL",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "Dartmouth College",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d94d"
+  },
+  "sscs_id": "SSCS110",
+  "mission": "SEEKER-1",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "UT Austin",
+  "institution": "University",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d94e"
+  },
+  "sscs_id": "SSCS111",
+  "mission": "SHIELDS-1",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "LaRC",
+  "institution": "NASA",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d94f"
+  },
+  "sscs_id": "SSCS112",
+  "mission": "SNOOPI",
+  "sponsor": "SMD-ESD",
+  "program": "InVEST",
+  "location": "Purdue University",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d950"
+  },
+  "sscs_id": "SSCS113",
+  "mission": "SOLARCRUISER",
+  "sponsor": "SMD-HPD",
+  "program": "STP",
+  "location": "MSFC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d951"
+  },
+  "sscs_id": "SSCS114",
+  "mission": "SORTIE",
+  "sponsor": "SMD-HPD",
+  "program": "NASA-Direct",
+  "location": "Astraspace",
+  "institution": "Industry",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d952"
+  },
+  "sscs_id": "SSCS115",
+  "mission": "SPARCS",
+  "sponsor": "SMD-APD",
+  "program": "APRA",
+  "location": "ASU",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d953"
+  },
+  "sscs_id": "SSCS116",
+  "mission": "SPHEREX",
+  "sponsor": "SMD-APD",
+  "program": "MIDEX",
+  "location": "JPL",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d954"
+  },
+  "sscs_id": "SSCS117",
+  "mission": "SPORESAT",
+  "sponsor": "SMD-BPS",
+  "program": "NASA-Direct",
+  "location": "Purdue University",
+  "institution": "University",
+  "status": "Complete",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d955"
+  },
+  "sscs_id": "SSCS118",
+  "mission": "SPORT",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "MSFC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d956"
+  },
+  "sscs_id": "SSCS119",
+  "mission": "SPRITE",
+  "sponsor": "SMD-APD",
+  "program": "APRA",
+  "location": "U. Colorado, Boulder",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d957"
+  },
+  "sscs_id": "SSCS120",
+  "mission": "STARBURST",
+  "sponsor": "SMD-APD",
+  "program": "Pioneers",
+  "location": "MSFC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d958"
+  },
+  "sscs_id": "SSCS121",
+  "mission": "STARLING",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d959"
+  },
+  "sscs_id": "SSCS122",
+  "mission": "STF-1",
+  "sponsor": "NASA-IRAD",
+  "program": "NASA-Center",
+  "location": "NASA IV&V",
+  "institution": "NASA",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d95a"
+  },
+  "sscs_id": "SSCS123",
+  "mission": "SUNCET",
+  "sponsor": "SMD-HPD",
+  "program": "HFORT",
+  "location": "John Hopkins University APL",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d95b"
+  },
+  "sscs_id": "SSCS124",
+  "mission": "SUNRISE",
+  "sponsor": "SMD-HPD",
+  "program": "MOO",
+  "location": "U. Michigan",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d95c"
+  },
+  "sscs_id": "SSCS125",
+  "mission": "SWFO-L1",
+  "sponsor": "SMD-JASD",
+  "program": "NOAA",
+  "location": "GSFC/NESDIS",
+  "institution": "NOAA",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d95d"
+  },
+  "sscs_id": "SSCS126",
+  "mission": "TBEX",
+  "sponsor": "SMD-HPD",
+  "program": "NASA-Direct",
+  "location": "SRI",
+  "institution": "Industry",
+  "status": "Complete",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d95e"
+  },
+  "sscs_id": "SSCS127",
+  "mission": "TEAM MILES",
+  "sponsor": "STMD",
+  "program": "PC",
+  "location": "Team Miles",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d95f"
+  },
+  "sscs_id": "SSCS128",
+  "mission": "TECHEDSAT-12",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d960"
+  },
+  "sscs_id": "SSCS129",
+  "mission": "TECHEDSAT-7",
+  "sponsor": "STMD",
+  "program": "NASA-Center",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d961"
+  },
+  "sscs_id": "SSCS130",
+  "mission": "TECHEDSAT-8",
+  "sponsor": "STMD",
+  "program": "NASA-Center",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d962"
+  },
+  "sscs_id": "SSCS131",
+  "mission": "TEMPEST-D",
+  "sponsor": "SMD-ESD",
+  "program": "EV",
+  "location": "Colorado State University",
+  "institution": "University",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d963"
+  },
+  "sscs_id": "SSCS132",
+  "mission": "TESS",
+  "sponsor": "SMD-APD",
+  "program": "MIDEX",
+  "location": "MIT",
+  "institution": "University",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d964"
+  },
+  "sscs_id": "SSCS133",
+  "mission": "TILE DEMO",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "Accion",
+  "institution": "Industry",
+  "status": "Operation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d965"
+  },
+  "sscs_id": "SSCS134",
+  "mission": "TRACERS",
+  "sponsor": "SMD-HPD",
+  "program": "SMEX",
+  "location": "U. Iowa",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d966"
+  },
+  "sscs_id": "SSCS135",
+  "mission": "TROPICS",
+  "sponsor": "SMD-ESD",
+  "program": "EV",
+  "location": "MIT Lincoln Laboratory",
+  "institution": "FFRDC",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d967"
+  },
+  "sscs_id": "SSCS136",
+  "mission": "TROPICS PATHFINDER ",
+  "sponsor": "SMD-ESD",
+  "program": "EV",
+  "location": "MIT Lincoln Laboratory",
+  "institution": "FFRDC",
+  "status": "Operation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d968"
+  },
+  "sscs_id": "SSCS137",
+  "mission": "TSIS-2",
+  "sponsor": "SMD-ESD",
+  "program": "NASA-Direct",
+  "location": "GSFC",
+  "institution": "NASA",
+  "status": "Formulation",
+  "theme": "Science",
+  "spacecraft": "SmallSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d969"
+  },
+  "sscs_id": "SSCS138",
+  "mission": "VISTA",
+  "sponsor": "SMD-HPD",
+  "program": "HTIDS",
+  "location": "MIT Haystack Observatory",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d96a"
+  },
+  "sscs_id": "SSCS139",
+  "mission": "VR3-X",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "ARC",
+  "institution": "NASA",
+  "status": "Complete",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d96b"
+  },
+  "sscs_id": "SSCS140",
+  "mission": "WINDCUBE",
+  "sponsor": "SMD-HPD",
+  "program": "HFORT",
+  "location": "University Corporation for Atmospheric Research",
+  "institution": "University",
+  "status": "Implementation",
+  "theme": "Science",
+  "spacecraft": "CubeSat"
+},{
+  "_id": {
+    "$oid": "621e97763f9d37571fa4d96c"
+  },
+  "sscs_id": "SSCS141",
+  "mission": "X-NAV ",
+  "sponsor": "STMD",
+  "program": "SST",
+  "location": "Blue Canyon Technologies ",
+  "institution": "Industry",
+  "status": "Implementation",
+  "theme": "Technology",
+  "spacecraft": "CubeSat"
+}]
